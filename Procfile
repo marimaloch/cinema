@@ -1,1 +1,1 @@
-worker: python write_bot.py
+web: python write_bot.py
