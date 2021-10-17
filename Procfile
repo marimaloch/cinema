@@ -1,1 +1,1 @@
-web: python write_bot.py
+web: python3 write_bot.py
