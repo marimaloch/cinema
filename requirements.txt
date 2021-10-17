@@ -1,0 +1,9 @@
+aiogram
+asyncio
+sqlite3
+bs4
+apscheduler
+requests
+langdetect
+translators
+random

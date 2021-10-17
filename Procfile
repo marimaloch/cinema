@@ -1,0 +1,1 @@
+worker: python write_bot.py
